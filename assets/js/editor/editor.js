@@ -18,7 +18,7 @@ window.addEventListener('keydown', (e) => {
     const key = e.key.toLowerCase();
 
     // Toggle editor
-    if (key === '`') {
+    if (key === 'tab') {
         toggleEditorMode();
         return;
     }
