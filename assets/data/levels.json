@@ -1,0 +1,6 @@
+{
+    "LEVELS": {
+        "1": { "-13,-2": { "tileset": 0, "id": 0, "rot": 0 }, "5,13": { "tileset": 1, "id": 0, "rot": 0 }, "6,13": { "tileset": 1, "id": 1, "rot": 0 }, "7,13": { "tileset": 1, "id": 2, "rot": 0 }, "8,13": { "tileset": 1, "id": 3, "rot": 0 }, "9,13": { "tileset": 1, "id": 4, "rot": 0 }, "10,13": { "tileset": 1, "id": 5, "rot": 0 }, "5,14": { "tileset": 1, "id": 6, "rot": 0 }, "6,14": { "tileset": 1, "id": 7, "rot": 0 }, "7,14": { "tileset": 1, "id": 8, "rot": 0 }, "8,14": { "tileset": 1, "id": 9, "rot": 0 } }
+
+    }
+}
